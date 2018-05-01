@@ -9,5 +9,7 @@ public class Main {
 		System.out.println("To Generate conflict one line added to master branch");
 		System.out.println("Changes Added in eclipse master branch to genrate conflict with remote master");
 
+		System.out.println("More Code for conflit");
+		System.out.println("Web Page conflict");
 	}
 }
