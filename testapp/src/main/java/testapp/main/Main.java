@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("Prod branch test");
 		System.out.println("Master branch direct update on git");
 		System.out.println("To Generate conflict one line added to master branch");
+		System.out.println("More Code for conflit");
 
 	}
 }
